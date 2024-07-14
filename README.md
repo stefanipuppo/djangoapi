@@ -1,5 +1,6 @@
 # Projeto Django API
 Este projeto implementa uma API RESTful utilizando Django e Django REST Framework para gerenciar usuários.
+Projeto feito acompanhando o canal DescolaDev do youtube.
 
 ### A API possui as seguintes funcionalidades principais:
 
